@@ -1,2 +1,2 @@
 # spci-static
-spci静态页面
+spci资源同步
